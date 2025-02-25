@@ -55,10 +55,10 @@ Conditional Rules: Ensuring correct relationships between fields, such as num_pr
 Contributing
 We welcome contributions from the community! To contribute:
 
-Fork the repository.
+
 Create a feature branch (git checkout -b feature-name).
 License
-This project is licensed under the MIT License. See LICENSE for details.
+This project is licensed under the GNU GENERAL PUBLIC LICENSE. See LICENSE for details.
 
 Contact
 For questions, issues, or contributions, open a GitHub Issue or reach out via:
