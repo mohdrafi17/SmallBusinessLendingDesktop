@@ -32,7 +32,7 @@ This tool allows users to:
    git clone https://github.com/mohdrafi17/SmallBusinessLendingDesktop.git
    cd SmallBusinessLendingDesktop
 2. Open in Visual Studio
-   Open SmallBusinessLendingValidator.sln in Visual Studio.
+   Open SmallBusinessLending.sln in Visual Studio.
 
 3. Build and Run
 
@@ -57,9 +57,6 @@ We welcome contributions from the community! To contribute:
 
 Fork the repository.
 Create a feature branch (git checkout -b feature-name).
-Commit changes (git commit -m "Add new feature").
-Push to GitHub (git push origin feature-name).
-Create a Pull Request (PR).
 License
 This project is licensed under the MIT License. See LICENSE for details.
 
